@@ -1,0 +1,1 @@
+data class Sith(val name: String, val age: Int)
